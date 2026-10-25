@@ -91,6 +91,12 @@ def prepare():
         return
     files = [f for f in git("ls-files").splitlines() if bilingual(f)]
     changed = [f for f in git("diff", "--name-only", baseline, head).splitlines() if bilingual(f)]
+    # When both sides are gone, there is nothing left to translate or review.
+    remaining = set(files)
+    changed = [f for f in changed if f in remaining or counterpart(f) in remaining]
+    if not changed and old_sha == sha:
+        output("needed", "false")
+        return
     mode = "terminology" if old_sha != sha else "content"
     context = dict(head=head, baseline=baseline, mode=mode, files=files,
                    changed=changed, dictionary=dictionary, dictionary_sha=sha,

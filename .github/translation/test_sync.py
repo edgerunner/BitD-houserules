@@ -50,6 +50,45 @@ class SyncTests(unittest.TestCase):
             finally:
                 os.chdir(old)
 
+    def test_deleted_pairs_do_not_call_model(self):
+        cases = [
+            # Remove the only pair, or a pair alongside unchanged rule files.
+            ("", "rules.en.md\nrules.tr.md", False),
+            ("other.en.md\nother.tr.md", "rules.en.md\nrules.tr.md", False),
+            # A surviving counterpart still requires review.
+            ("rules.tr.md", "rules.en.md", True),
+            # Real changes alongside the deleted pair still require translation.
+            ("other.en.md", "rules.en.md\nrules.tr.md\nother.en.md", True),
+        ]
+        for files, changed, translate in cases:
+            with self.subTest(files=files, changed=changed), tempfile.TemporaryDirectory() as tmp:
+                old = os.getcwd()
+                try:
+                    os.chdir(tmp)
+                    Path(".translation").mkdir()
+                    text = "dictionary"
+                    sha = sync.git_blob(text)
+                    sync.SNAPSHOT.write_text(text)
+                    sync.VERSION.write_text(sha)
+                    def git(*args):
+                        if args[0] == "rev-parse": return "head"
+                        if args[0] == "rev-list": return "root"
+                        if args[0] == "ls-files": return files
+                        if args[0] == "diff": return changed
+                        raise AssertionError(args)
+                    source = {"content": sync.base64.b64encode(text.encode()).decode(), "sha": sha}
+                    with patch.dict(os.environ, {"GITHUB_REPOSITORY": "test/repo", "GITHUB_OUTPUT": "output"}), patch.object(sync, "pages", return_value=[]), patch.object(sync, "api", return_value=source), patch.object(sync, "git", side_effect=git):
+                        sync.prepare()
+                    result = Path("output").read_text()
+                    if translate:
+                        self.assertIn("translate=true", result)
+                        context = json.loads(Path(".run/context.json").read_text())
+                        self.assertNotIn("rules.tr.md", context["changed"])
+                    else:
+                        self.assertEqual(result, "needed=false\n")
+                finally:
+                    os.chdir(old)
+
     def test_prepare_fallback(self):
         with tempfile.TemporaryDirectory() as tmp:
             old = os.getcwd()
