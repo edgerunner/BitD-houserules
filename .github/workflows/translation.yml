@@ -51,6 +51,7 @@ jobs:
         with:
           name: translation-result
           path: .run/*.json
+          include-hidden-files: true
           retention-days: 7
 
   publish:
