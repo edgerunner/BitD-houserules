@@ -26,7 +26,7 @@ jobs:
       - name: Prepare baseline and dictionary
         id: prepare
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.DICTIONARY_TOKEN || github.token }}
         run: python3 .github/translation/sync.py prepare
       - name: Check API key
         if: steps.prepare.outputs.translate == 'true'

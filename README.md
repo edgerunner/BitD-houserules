@@ -26,6 +26,12 @@ Dictionary changes receive a separate terminology PR, potentially editing
 both languages. After merging it, run the workflow to handle pending content.
 Nothing is installed in the dictionary repository.
 
+The dictionary repository is private. For live updates, add DICTIONARY_TOKEN
+as an Actions repository secret: a fine-grained GitHub token limited to
+edgerunner/BitD-tr with Contents: Read access. The built-in token only has
+access to this repository; without DICTIONARY_TOKEN the saved snapshot is used.
+The reference snapshot is visible in this public repository.
+
 Reserve translation-sync for automation. An open PR is refreshed on subsequent
 pushes, so make final manual edits immediately before merging. Do not remove
 the PR's translation-sync marker. Stale runs refuse publication.
