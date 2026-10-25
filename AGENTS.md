@@ -5,6 +5,8 @@ Create missing counterparts. Translate changes in either direction.
 Read .run/context.json for mode, accepted baseline and latest dictionary.
 Use the dictionary strictly. Prefer short, clear Turkish, with restrained
 criminal slang and old-fashioned language where appropriate.
+Check the supplemental dictionary for user-specified terminology pertaining
+to the house rules.
 Never invent house rules. Preserve Markdown and unrelated prose.
 Compare each language with the accepted baseline, not just with each other.
 When both languages independently change the same passage, report a conflict
