@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   translate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       needed: ${{ steps.prepare.outputs.needed }}
     steps:
@@ -57,7 +57,7 @@ jobs:
   publish:
     needs: translate
     if: needs.translate.outputs.needed == 'true'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
       pull-requests: write
