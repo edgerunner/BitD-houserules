@@ -115,3 +115,39 @@ ve kitabın kuralındaki gibi saati doldurabilir. Saat dolarsa zaafa kapılmadan
 hasarları birer seviye düşer.
 
 Erken sanayi çağının tıbbı da zaten budur. Gözetim altında eziyet.
+
+## Emeklilik ikramiyesi
+
+Bir karakter herhangi bir nedenle, kendi isteğiyle, kâbus, yaralanma vb. yüzünden
+emekliye ayrıldığında tayfa, emeklinin yaşam tarzı seviyesine eşit miktarda mangır alır.
+(Belki de artık ihtiyaç duymayacağı özel teçhizatının nakde çevrilmesi sayesinde.)
+
+## Son bir iş
+
+Emekli bir karakter, tayfanın ahbabı olur. Bu olduğunda tayfa için _Son bir iş_ adında özel bir
+istihkak belirleyip istihkak haritasının en uzak kenarına yerleştirin. Bu, karakterle ilgili bir şey,
+belki de geride bıraktığı yarım kalmış bir mesele olmalıdır. Tayfa bu istihkakı ele geçirince
+emekli haydudu kendi seçeceği son bir iş için geri getirme imkânı kazanır.
+
+Tayfa bu hakkını kullandığında emekli, bütün hareket puanlarına bir puan daha eklenmiş olarak
+ve hünerleri eskisi gibi geri döner. Standart teçhizata ve herhangi bir nedenle sakladığı, kendine ait
+eski özel teçhizatından bir parçaya erişebilir (bunun ne olduğunu iş sırasında ihtiyaç duyduğu anda
+açıklayabilir). Gerekirse evveliyatlarla daha fazlasını edinebilir ya da ödünç alabilir.
+
+Geri dönen emekliyi kimin oynadığı önemli değil ama benim tercih sıram şöyle: Asıl oyuncusu
+(isterse yeni karakteriyle birlikte), başka bir oyuncu ve son olarak oyuncu dışı karakter olarak
+oyun yöneticisi. Son durumda emeklinin vesikasındaki sayılarla uğraşmayın; onu güçlü bir
+müttefik/erbap avane olarak oynayın.
+
+O son iş bittiğinde emekli artık gerçekten emekliye ayrılır.
+
+Tayfa, emekli ahbaplarının her biri için ayrı ayrı istihkak edinebilir.
+
+## Kesenin ağzını açmak
+
+Bir karakter, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın işe yarayabileceği bedellere
+mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki satır sayısını) kullanabilir.
+
+Bunu yaptığında mukavemet zarını attıktan sonra 2 buhran almak yerine 1 mangır ödemeyi seçebilir.
+Mangır kendi cebinden çıkmalıdır. Olayın harareti içinde gerçekleştiğinden mangır paylaşmak ya da
+tayfanın mangırını kullanmak mümkün değildir.
