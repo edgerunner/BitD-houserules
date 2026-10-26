@@ -134,9 +134,20 @@ The crew can collect separate claims for each retiree contact they have.
 
 ## Greasing palms
 
-Besides the three attributes (insight, prowess, resolve), a character can also use their
+Besides the three attributes (insight, prowess, resolve), a scoundrel can also use their
 lifestyle rating (ie. rows of stash) to resist consequences where money could help.
+When they do so, after they make the resistance roll, they pay coin based on their highest
+die instead of taking stress.
 
-When they do so, after they make the resistance roll, they may choose to pay 1 coin insted of
-taking 2 stress. The coin has to be from their own pocket. No sharing or accessing crew coin
+**1-3: 2 coin, 4-5: 1 coin, 6: 0 coin.** Yes, being poor is expensive.
+
+The coin has to be from their own pocket. Sharing or accessing crew coin is normally impossible
 because this happens in the heat of the moment.
+
+#### Neck-deep
+
+If a scoundrel resisting with coin cannot pay the amount determined by their roll, they go into debt.
+Debt acquired this way is a kind of temporary trauma. It occupies one of their trauma slots.
+The scoundrel earns experience points when they struggle because of their debt. If there
+are no trauma slots left, it forces the scoundrel into early retirement. The debt clears
+when they pay one coin more than the amount owed.
