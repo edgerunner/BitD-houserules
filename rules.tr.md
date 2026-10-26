@@ -143,7 +143,7 @@ O son iş bittiğinde emekli artık gerçekten emekliye ayrılır.
 
 Tayfa, emekli ahbaplarının her biri için ayrı ayrı istihkak edinebilir.
 
-## El yağlamak
+## Kesenin ağzını açmak
 
 Bir karakter, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın işe yarayabileceği bedellere
 mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki satır sayısını) kullanabilir.
