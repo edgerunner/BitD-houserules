@@ -66,7 +66,7 @@ zula miktarını 1:1 oranında nakde çevirirsiniz.
 - Simsarların **Aracı** adında bir istihkakı vardır: Her üye, her molada zulasının 4'e
   kadarını ek bedel ödemeden 1:1 oranında mangıra çevirebilir.
 - Kaypak bir hüner kazanır: **Üçkağıtçı:** Zulanızın bir kısmını kurnaz dostlarınızdan
-  birine 1:1 oranında mangır karşılığında satın, fakat dostunuzun aşağı bakan üçgenini
+  birine 1:2 oranında (yani iki katı) mangır karşılığında satın, fakat dostunuzun aşağı bakan üçgenini
   işaretleyin; çok geçmeden işin aslını anlar.
 - Her tayfanın edinebileceği bir istihkak daha: **Tefeci:** Vesika eşyalarınızı (ortak olanları
   değil, özel olanları) her biri için 1 mangır karşılığında rehin verebilirsiniz. Borcunuzu
@@ -116,6 +116,15 @@ hasarları birer seviye düşer.
 
 Erken sanayi çağının tıbbı da zaten budur. Gözetim altında eziyet.
 
+## Hayat pek rahat
+
+Bir haydut zulasını tamamen doldurduğunda (dört satırın hepsi dolunca) hemen yeni bir
+kâbus edinir: **Rahat**. Artık suç işlemeye pek hevesi kalmamıştır;
+daha istikrarlı bir hayatın tadını çıkarmayı tercih eder.
+
+Bu dördüncü kâbusuysa ya hemen ya da bir sonraki işin ardından emekliye ayrılır;
+seçim onundur.
+
 ## Emeklilik ikramiyesi
 
 Bir karakter herhangi bir nedenle, kendi isteğiyle, kâbus, yaralanma vb. yüzünden
@@ -136,8 +145,8 @@ açıklayabilir). Gerekirse evveliyatlarla daha fazlasını edinebilir ya da öd
 
 Geri dönen emekliyi kimin oynadığı önemli değil ama benim tercih sıram şöyle: Asıl oyuncusu
 (isterse yeni karakteriyle birlikte), başka bir oyuncu ve son olarak oyuncu dışı karakter olarak
-oyun yöneticisi. Son durumda emeklinin vesikasındaki sayılarla uğraşmayın; onu güçlü bir
-müttefik/erbap avane olarak oynayın.
+oyun yöneticisi. Son durumda emeklinin vesikasındaki sayılarla uğraşmayın; onu seçkin bir
+erbap avane olarak oynayın.
 
 O son iş bittiğinde emekli artık gerçekten emekliye ayrılır.
 
@@ -145,9 +154,10 @@ Tayfa, emekli ahbaplarının her biri için ayrı ayrı istihkak edinebilir.
 
 ## Kesenin ağzını açmak
 
-Bir haydut, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın işe yarayabileceği bedellere
-mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki satır sayısını) kullanabilir.
-Bunu yaptığında mukavemet zarını attıktan sonra buhran almak yerine en iyi zarına göre mangır öder.
+Bir haydut, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın ya da varlığın işe
+yarayabileceği bedellere mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki
+satır sayısını) kullanabilir. Bunu yaptığında mukavemet zarını attıktan sonra buhran almak
+yerine en iyi zarına göre mangır öder.
 
 **1-3: 2 mangır, 4-5: 1 mangır, 6: 0 mangır.** Evet, fakir olmak pahalıdır.
 
