@@ -147,7 +147,7 @@ The crew can collect separate claims for each retiree contact they have.
 ## Greasing palms
 
 Besides the three attributes (insight, prowess, resolve), a scoundrel can also use their
-lifestyle rating (ie. rows of stash) to resist consequences where money could help.
+lifestyle rating (ie. rows of stash) to resist consequences where money or affluence could help.
 When they do so, after they make the resistance roll, they pay coin based on their highest
 die instead of taking stress.
 
