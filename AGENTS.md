@@ -9,6 +9,8 @@ Check the supplemental dictionary for user-specified terminology pertaining
 to the house rules.
 Never invent house rules. Preserve Markdown and unrelated prose.
 Compare each language with the accepted baseline, not just with each other.
+When translating idioms, prefer using idioms in the target language that match
+the sentiment rather than translating the idiom directly.
 When both languages independently change the same passage, report a conflict
 for an issue, leave that passage untouched, translate other passages normally.
 Merged translation PRs, including human edits, are accepted bilingual text.
