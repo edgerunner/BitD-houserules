@@ -16,11 +16,11 @@ _Kalıcı zırh için isteğe bağlı ek kural_
 Bir oyuncu, hasarı tamamen önlemek için **zırhını feda edebilir**. Bu durumda zırhınız işin
 geri kalanında kullanılamaz ve…
 
-- 1. seviye hasar, işten sonra kolayca onarılır
-- 2. seviye hasarı onarmak zaman, yani bir mola faaliyeti ya da para, yani 1 mangır gerektirir
-- 3. seviye hasarı onarmak hem para hem zaman gerektirir: 1 mangır ve uzun vadeli proje
-     olarak başlatılacak 6 dilimli bir saat
-- 4. seviye hasar onarılamaz; zırh tamir edilemeyecek kadar harap olmuştur.
+- 1-hasar, işten sonra kolayca onarılır
+- 2-hasarı onarmak zaman, yani bir mola faaliyeti ya da para, yani 1 mangır gerektirir
+- 3-hasarı onarmak hem para hem zaman gerektirir: 1 mangır ve uzun vadeli proje
+  olarak başlatılacak 6 dilimli bir saat
+- 4-hasar onarılamaz; zırh tamir edilemeyecek kadar harap olmuştur.
 
 Zırhınızı onarana kadar kullanamazsınız.
 
