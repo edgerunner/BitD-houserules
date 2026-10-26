@@ -116,7 +116,7 @@ equipment, which they won't be needing any more)
 A retired character becomes a crew contact. When they do, define a special claim for the crew,
 called _One last score_ and place it on the far edge of the claims map. This should be something
 related to the character, possibly some loose end they left behind. Once the crew secure this claim,
-They get the possibility to bring the retired character back for one last score of their choosing.
+They get the possibility to bring the retired scoundrel back for one last score of their choosing.
 
 When the crew exercise their option, the retiree comes back with all their action dots plus one more,
 and abilities as they were. They do have access to standard equipment and one of their own original
@@ -130,7 +130,7 @@ powerful ally/expert cohort.
 
 Once that last score is concluded, the retiree is now truly retired.
 
-The crew can collect claims for each retiree contact they have.
+The crew can collect separate claims for each retiree contact they have.
 
 ## Greasing palms
 

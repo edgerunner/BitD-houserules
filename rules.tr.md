@@ -118,16 +118,16 @@ Erken sanayi çağının tıbbı da zaten budur. Gözetim altında eziyet.
 
 ## Emeklilik ikramiyesi
 
-Bir karakter herhangi bir nedenle, kendi isteğiyle, kâbus, yaralanma vb. yüzünden emekliye ayrıldığında
-tayfa, emeklinin yaşam tarzı seviyesine eşit miktarda mangır alır. (Belki de artık ihtiyaç
-duymayacağı özel teçhizatının nakde çevrilmesi sayesinde.)
+Bir karakter herhangi bir nedenle, kendi isteğiyle, kâbus, yaralanma vb. yüzünden
+emekliye ayrıldığında tayfa, emeklinin yaşam tarzı seviyesine eşit miktarda mangır alır.
+(Belki de artık ihtiyaç duymayacağı özel teçhizatının nakde çevrilmesi sayesinde.)
 
 ## Son bir iş
 
 Emekli bir karakter, tayfanın ahbabı olur. Bu olduğunda tayfa için _Son bir iş_ adında özel bir
 istihkak belirleyip istihkak haritasının en uzak kenarına yerleştirin. Bu, karakterle ilgili bir şey,
 belki de geride bıraktığı yarım kalmış bir mesele olmalıdır. Tayfa bu istihkakı ele geçirince
-emekli karakteri kendi seçeceği son bir iş için geri getirme imkânı kazanır.
+emekli haydudu kendi seçeceği son bir iş için geri getirme imkânı kazanır.
 
 Tayfa bu hakkını kullandığında emekli, bütün hareket puanlarına bir puan daha eklenmiş olarak
 ve hünerleri eskisi gibi geri döner. Standart teçhizata ve herhangi bir nedenle sakladığı, kendine ait
@@ -141,7 +141,7 @@ müttefik/erbap avane olarak oynayın.
 
 O son iş bittiğinde emekli artık gerçekten emekliye ayrılır.
 
-Tayfa, emekli ahbaplarının her biri için istihkak edinebilir.
+Tayfa, emekli ahbaplarının her biri için ayrı ayrı istihkak edinebilir.
 
 ## El yağlamak
 
