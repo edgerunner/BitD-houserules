@@ -58,9 +58,12 @@ the stated amount of stash 1:1.
 
 ### Supplemental extras for liquidity
 
-- Hawkers have a claim called **Agent:** Every member may liquidate up to 4 of their stash 1:1 into coin every downtime at no extra cost.
-- The slide gets a special ability: **Swindler:** Sell some of your stash to one of your sly friends for 1:1 coin, but mark their downward triangle, they find out soon enough.
-- And another claim for any crew; **Pawn shop:** You may pawn your playbook items (special ones, not the common) for 1-coin each. You get them back when you pay your debt.
+- Hawkers have a claim called **Agent:** Every member may liquidate up to 4 of their stash 1:1 into coin
+  every downtime at no extra cost.
+- The slide gets a special ability: **Swindler:** Sell some of your stash to one of your sly friends for
+  1:2 coin (ie. double), but mark their downward triangle, they find out soon enough.
+- And another claim for any crew; **Pawn shop:** You may pawn your playbook items (special ones, not the
+  common) for 1-coin each. You get them back when you pay your debt.
 
 ## Heavy items in light loads
 
