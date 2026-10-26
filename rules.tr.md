@@ -116,10 +116,10 @@ hasarları birer seviye düşer.
 
 Erken sanayi çağının tıbbı da zaten budur. Gözetim altında eziyet.
 
-## Rahatlık alanı
+## Hayat pek rahat
 
 Bir haydut zulasını tamamen doldurduğunda (dört satırın hepsi dolunca) hemen yeni bir
-kâbus edinir: **Rahatına düşkün**. Artık suç işlemeye pek hevesi kalmamıştır;
+kâbus edinir: **Rahat**. Artık suç işlemeye pek hevesi kalmamıştır;
 daha istikrarlı bir hayatın tadını çıkarmayı tercih eder.
 
 Bu dördüncü kâbusuysa ya hemen ya da bir sonraki işin ardından emekliye ayrılır;
@@ -154,9 +154,10 @@ Tayfa, emekli ahbaplarının her biri için ayrı ayrı istihkak edinebilir.
 
 ## Kesenin ağzını açmak
 
-Bir haydut, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın ya da varlığın işe yarayabileceği bedellere
-mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki satır sayısını) kullanabilir.
-Bunu yaptığında mukavemet zarını attıktan sonra buhran almak yerine en iyi zarına göre mangır öder.
+Bir haydut, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın ya da varlığın işe
+yarayabileceği bedellere mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki
+satır sayısını) kullanabilir. Bunu yaptığında mukavemet zarını attıktan sonra buhran almak
+yerine en iyi zarına göre mangır öder.
 
 **1-3: 2 mangır, 4-5: 1 mangır, 6: 0 mangır.** Evet, fakir olmak pahalıdır.
 
