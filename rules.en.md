@@ -105,6 +105,15 @@ without indulging vice.
 
 Early-industrial medicine is just that anyway. Supervised pain.
 
+## Comfort zone
+
+If and when a scoundrel maxes out their stash (fill all four rows), they immediately get a new
+trauma: **Comfortable**. They now have less of a motivation to pursue criminal activity, and would
+rather enjoy a more stable life.
+
+If this was their fourth trauma, they either retire right now or right after the next score,
+their call.
+
 ## Retirement bonus
 
 When a character retires for whatever reason, voluntary, trauma, injury etc. the crew gets
