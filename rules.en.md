@@ -104,3 +104,39 @@ and fill the clock up, as in the book version of the rule. Then if the clock is 
 without indulging vice.
 
 Early-industrial medicine is just that anyway. Supervised pain.
+
+## Retirement bonus
+
+When a character retires for whatever reason, voluntary, trauma, injury etc. the crew gets
+coins equal to the retiring character's lifestyle. (Possibly due to liquidating their special
+equipment, which they won't be needing any more)
+
+## One last score
+
+A retired character becomes a crew contact. When they do, define a special claim for the crew,
+called _One last score_ and place it on the far edge of the claims map. This should be something
+related to the character, possibly some loose end they left behind. Once the crew secure this claim,
+They get the possibility to bring the retired character back for one last score of their choosing.
+
+When the crew exercise their option, the retiree comes back with all their action dots plus one more,
+and abilities as they were. They do have access to standard equipment and one of their own original
+special equipment which they kept for whatever reason (they can reveal what at the moment of need
+in the score). They can acquire/borrow more with flashbacks if needed.
+
+It does not matter who plays the returning retiree, but my preferential order is; the original
+player (alongside their new character if they choose so), any other player, and finally the GM
+as a NPC. If the latter, don't bother with the retiree's playbook numbers, just play them as a
+powerful ally/expert cohort.
+
+Once that last score is concluded, the retiree is now truly retired.
+
+The crew can collect claims for each retiree contact they have.
+
+## Greasing palms
+
+Besides the three attributes (insight, prowess, resolve), a character can also use their
+lifestyle rating (ie. rows of stash) to resist consequences where money could help.
+
+When they do so, after they make the resistance roll, they may choose to pay 1 coin insted of
+taking 2 stress. The coin has to be from their own pocket. No sharing or accessing crew coin
+because this happens in the heat of the moment.
