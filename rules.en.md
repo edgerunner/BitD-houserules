@@ -134,8 +134,8 @@ in the score). They can acquire/borrow more with flashbacks if needed.
 
 It does not matter who plays the returning retiree, but my preferential order is; the original
 player (alongside their new character if they choose so), any other player, and finally the GM
-as a NPC. If the latter, don't bother with the retiree's playbook numbers, just play them as a
-powerful ally/expert cohort.
+as an NPC. If the latter, don't bother with the retiree's playbook numbers, just play them as an
+elite expert cohort.
 
 Once that last score is concluded, the retiree is now truly retired.
 
