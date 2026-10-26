@@ -145,9 +145,18 @@ Tayfa, emekli ahbaplarının her biri için ayrı ayrı istihkak edinebilir.
 
 ## Kesenin ağzını açmak
 
-Bir karakter, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın işe yarayabileceği bedellere
+Bir haydut, üç vasfının (idrak, maharet, dirayet) yanı sıra paranın işe yarayabileceği bedellere
 mukavemet etmek için yaşam tarzı seviyesini de (yani zulasındaki satır sayısını) kullanabilir.
+Bunu yaptığında mukavemet zarını attıktan sonra buhran almak yerine en iyi zarına göre mangır öder.
 
-Bunu yaptığında mukavemet zarını attıktan sonra 2 buhran almak yerine 1 mangır ödemeyi seçebilir.
+**1-3: 2 mangır, 4-5: 1 mangır, 6: 0 mangır.** Evet, fakir olmak pahalıdır.
+
 Mangır kendi cebinden çıkmalıdır. Olayın harareti içinde gerçekleştiğinden mangır paylaşmak ya da
-tayfanın mangırını kullanmak mümkün değildir.
+tayfanın mangırını kullanmak normal şartlarda mümkün değildir.
+
+#### Borç yiğidin kamçısı
+
+Mangırla mukavemet gösteren bir haydut eğer zarında attığı mangırı ödeyemezse borçlanmış sayılır.
+Bu şekilde edinilen borç, bir çeşit geçici kabus gibidir. Kabus boşluklarından birini işgal eder.
+Haydut borcu yüzünden sıkıntı çektiğinde tecrübe puanı kazandırır. Eğer kabus yazacak yer kalmadıysa
+haydudu erken emekliliğe zorlar. Borçlu olunan mangırın bir fazlasını ödeyince geçer.
